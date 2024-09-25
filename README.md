@@ -17,3 +17,7 @@ How can we get Copilot to produce more accurate and relevant responses?
 How can we have better control over the versions of software Copilot uses? 
 
 How can we improve the quality of unit tests it produces? 
+
+how to prompt co-pilot to help breakdown complex prompts ? 
+
+
